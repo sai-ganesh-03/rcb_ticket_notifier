@@ -1,0 +1,4 @@
+get-chrome-driver
+selenium
+python-dotenv
+requests
